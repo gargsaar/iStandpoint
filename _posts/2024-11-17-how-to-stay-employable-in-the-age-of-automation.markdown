@@ -1,7 +1,7 @@
 ---
 date: 2024-11-17T00:00:00.000Z
 layout: post
-title: AI-Powered Evolution: The Future of Human Potential
+title: "AI-Powered Evolution: The Future of Human Potential"
 subtitle: "Machines will replace humans, but the change will be for good"
 description: "Machines will replace humans, but the change will be for good"
 image: /assets/images/post_images/automation.jpg
