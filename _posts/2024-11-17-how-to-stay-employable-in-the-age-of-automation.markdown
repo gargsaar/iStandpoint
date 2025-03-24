@@ -2,8 +2,8 @@
 date: 2024-11-17T00:00:00.000Z
 layout: post
 title: AI-Powered Evolution: The Future of Human Potential
-subtitle: 'Machines will replace humans, but the change will be for good'
-description: 'Machines will replace humans, but the change will be for good'
+subtitle: "Machines will replace humans, but the change will be for good"
+description: "Machines will replace humans, but the change will be for good"
 image: /assets/images/post_images/automation.jpg
 optimized_image: /assets/images/post_images/automation.jpg
 author: sarthakgarg
@@ -14,6 +14,7 @@ tags:
   - Motivation
 paginate: true
 ---
+
 *“A man who can be replaced by a machine, will be.”*
 
 I stand with those who believe that AI will replace many human jobs — but I believe this change will be for the better. My optimism stems from a fundamental truth:
