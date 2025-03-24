@@ -1,6 +1,6 @@
 ---
-layout: category
+layout: categories
 title: Life
-slug: "{{slug}}"
+slug: Life
 description: A category for life related or motivational posts.
 ---
