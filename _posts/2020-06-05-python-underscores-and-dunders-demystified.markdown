@@ -1,5 +1,5 @@
 ---
-date: 2020-06-05T08:18:58.000Z
+date: 2024-11-05T08:18:58.000Z
 layout: post
 title: Python Underscores and Dunders Demystified
 subtitle: How to use Underscores and Dunders, something every Python programmer must know

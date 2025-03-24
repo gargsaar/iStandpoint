@@ -1,5 +1,5 @@
 ---
-date: 2019-12-02T00:00:00.000Z
+date: 2023-06-02T00:00:00.000Z
 layout: post
 title: The Purpose of Life
 subtitle: We all have our entrances and exits, but that’s not important, what’s
@@ -18,38 +18,63 @@ tags:
   - Empathy
 paginate: true
 ---
-William Shakespeare said, "all the world's a stage, and all the men and women merely players who have their entrances and exits;"
+**Live with Purpose, Transform Your Life**
 
-It's a beautiful quote that defines the phenomenon of nature - entrances, and exits. But I believe, what's important is - the purpose.
+William Shakespeare once said, "All the world's a stage, and all the men and women merely players who have their entrances and exits."
 
-An intricate characteristic of we (humans), in general, is that we don't value things we easily get. For example, our life. We are born without aspiring for it, and maybe that's why we don't realize the value of life. And because we don't realize the value of life, we often end up living it for the sake of it - without any purpose.
+A timeless quote that captures the natural rhythm of life — entrances and exits. But beyond these entrances and exits, I’ve come to realize something even more profound: the purpose we choose to fulfill during our time on stage.
 
-It brings me to the questions which I'm sure must have haunted you as well at some point in your lives: why are we alive? what is the purpose of life?
+**Why Purpose Matters**
 
-We know that no marketing can be effective if the product is bogus, likewise, no life is worth it if it doesn't serve a purpose. The purpose is so important in life. It's the purpose that makes an ordinary life extraordinary. But when you don't have a purpose of your own, your life is often controlled by others.
+An intriguing trait we humans possess is that we rarely value what comes easily. Life itself is the most precious gift, yet because we didn’t ask for it, we often live it without recognizing its worth. And when we fail to acknowledge the value of life, we drift through it aimlessly — just existing, not truly living.
 
-In my case, my early life was controlled by my uncle. When I was 15, I joined a music class. Not because I liked music, but because his son was learning tabla (an Indian classical musical instrument). Dad was highly influenced by him and hell-bent to follow in his footsteps. As a result, I wasted my teen learning something I never wanted to learn.
+This brings me to the questions that haunt most of us at some point in life:
 
-The worst happened when I cracked admission in the best architecture college in my country, but didn't join. He told dad, "put your son into engineering, engineering graduates easily get a job." I joined engineering and the suffering began. 
+👉 Why are we alive?
+👉 What is the purpose of life?
 
-When my architecture friends were studying history and romance which they used in their lives, I was studying chemical bonding. It wasn't only a matter of WHY, why to learn chemical bonding. I mean - how was I suppose to understand the concept of bonding? On one hand, the lucky oxygen atom was involved in a twosome with two hydrogen atoms, and I struggled to find even a single girl.
+Just like no marketing can sell a product that lacks substance, no life can truly shine without a purpose. Purpose is what transforms an ordinary existence into an extraordinary journey. It gives us direction, fuels our passion, and empowers us to take control of our destiny. But without it, we often become puppets in someone else’s play.
 
-In engineering, I realized the hard truth - when you don't want to do engineering, you end up learning only two things  - 1. how to get rid of your google chrome history, and 2. how to use google chrome incognito.
+**My Story: A Life Without Purpose**
 
-I somehow completed engineering and as my uncle had said, I got the job. But I, who was initially having energy, lost all of it in just a few years. Then came the moment of awakening.
+In my own life, I’ve been there. For years, I let others dictate my path. When I was 15, I joined a music class. Not because I was passionate about music, but because my uncle’s son was learning tabla. My father, heavily influenced by my uncle, was adamant that I follow the same path. I spent my teenage years learning something that never ignited my soul.
 
-On a bright Sunday morning when people were trying to break out of mediocrity, I was sitting on a lousy couch in my living room browsing youtube videos to serve the normal routine of my ordinary life. After a few useless videos, I came across a TEDx video of a software engineer from my hometown, a tier 2 city in India, whose startup recently got $50 mn funding. I paused the video, in shock or surprise - whatever that weird feeling was, to absorb the fact - that guy was my batchmate in engineering. 
+The worst came when I cracked admission to the best architecture college in the country — my dream. But I never joined. My uncle convinced my father, "Put your son into engineering. Engineering graduates get jobs easily."
 
-He was very ordinary in college - mediocre grades, average intelligence, and a cauliflower-like personality. But that's not important. What's important is that he had a purpose in life. He always wanted to be an entrepreneur to create jobs, not serve one.
+And so, I joined engineering. But when your heart isn’t in it, all you learn are two things: How to clear your Google Chrome history. How to survive in incognito mode.
 
-That was my moment of awakening. I had realized how ordinary my life was. He had visited 52 countries, drove Volvo XC90, and met Bill Gates - my role models whose only thing I could manage to touch was a photo on my mobile. That moment I decided - I no longer will live a life without a purpose.
+While my friends in architecture explored history and romance, I wrestled with chemical bonding — a subject I had zero interest in. Ironically, while oxygen atoms formed bonds effortlessly, I struggled to even strike a conversation with a girl!
 
-The purpose could be anything. It could be as small as to protect the mother earth by planting a tree every week; or as big as to build a shelter home by saving enough from your not-so-enough salary. But there has to be a purpose!
+**Awakening: When Purpose Found Me**
 
-It took 94 days of perseverance, 8460 minutes of hard work in the gym, and 450 instances of saying no to the outside food to reduce from 91 to 71 kgs. Just by having a purpose - to live a healthy life, I was able to achieve it.
+I completed engineering and, as predicted, landed a job. But with every passing day, I felt drained. I was merely surviving, not living. Then came my moment of awakening.
 
-Losing weight could seem to be the easiest of the purposes on the planet, but that's not important. What's important is - this simple purpose made my ordinary life extraordinary. I'm no longer a guy whose stomach droops over his belt, but an inspiration for my cousins and colleagues for being the only one among them who could do all the obstacles of Devil Circuit.
+On a lazy Sunday morning, while others were chasing dreams, I was scrolling through YouTube — lost in the routine of an uninspired life. And then, I stumbled upon a TEDx talk by a software engineer from my hometown. His startup had just secured $5 million in funding. But what shook me to the core was realizing that this guy was my batchmate from college.
 
-It's true, success doesn't come quick or easy, but when you have a purpose, all the universe conspires in helping you achieve it.
+He wasn’t extraordinary back then — mediocre grades, average intelligence, and a cauliflower-like personality. But he had something I didn’t — a purpose. While I was busy following a path others had laid for me, he was building his own. His purpose was to create jobs, not serve one.
 
-So always remember, the purpose can be anything, but there has to be a purpose. Because the purpose of life itself is - to live a life of purpose.
+That was my defining moment. I realized how ordinary my life had become. He had visited 52 countries, drove a Volvo XC90, and met Bill Gates — my idol. And the closest I had come to Bill Gates was a wallpaper on my phone.
+
+I decided that day — I would no longer live without a purpose.
+
+**Purpose Transforms the Ordinary into Extraordinary**
+
+Purpose doesn’t have to be grand. It can be as simple as planting a tree every week to protect the planet or as ambitious as building a shelter home from your not-so-enough salary. But there must be a purpose.
+
+When I finally chose a purpose, everything changed. I decided to live a healthier life. It took:
+
+👉 **94** days of perseverance
+👉 **8460** minutes of sweating it out in the gym
+👉 **450** instances of saying NO to tempting junk food
+
+And I shed 20 kgs, transforming from 91 to 71 kgs.
+
+Losing weight may seem like a small victory to some, but for me, it was a testament to the power of purpose. That one simple goal transformed me from someone whose stomach drooped over his belt to an inspiration for my cousins and colleagues. I went on to conquer all the obstacles of Devil Circuit — an achievement that seemed impossible before.
+
+**When You Have a Purpose, The Universe Aligns**
+
+It’s true: Success doesn’t come easy. But when you have a purpose, all the universe conspires to help you achieve it.
+
+So, I urge you — find your purpose. It doesn’t matter how big or small it is. What matters is that you have one.
+
+Because at the end of the day, the purpose of life is to live a life of purpose.

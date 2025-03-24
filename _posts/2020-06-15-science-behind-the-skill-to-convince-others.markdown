@@ -1,5 +1,5 @@
 ---
-date: 2020-06-15T20:36:04.000Z
+date: 2024-06-15T20:36:04.000Z
 layout: post
 title: Science behind the skill to convince others
 subtitle: The most important trait of successful individuals is their ability to

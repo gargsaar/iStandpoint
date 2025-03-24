@@ -1,5 +1,5 @@
 ---
-date: 2019-09-04T00:00:00.000Z
+date: 2023-09-04T00:00:00.000Z
 layout: post
 title: Not everybody gets a second chance
 subtitle: It's difficult when you don't get a second chance, so make the most of
@@ -17,50 +17,64 @@ tags:
   - Motivation
 paginate: true
 ---
-Rahul works with IBM, New York. It has been 6 years since he moved to the US. He lives with his parents. He hardly speaks to them. Like every year, he was waiting for her call. And like every year, she didn't call. It's his birthday today.
+Rahul worked at IBM. It had been six long years since he moved to the US, but he was far from feeling at home. He lived with his parents, yet silence had become their unspoken language. Conversations were rare—just fleeting exchanges over dinner. But today, like every year, he was waiting for her call. And like every year, it never came.
 
-Tina lives in Mumbai with her daughter Samira. Back in college, Tina and Rahul were always together. Tina  always stood for her decisions. She was fearless and welcomed the future in all of it’s unknown mystery. And Rahul, an irresolute. As opposite attracts, they too got attracted and fell in love.
+It was his birthday.
 
-When he was about to leave for office, his phone rang. He couldn't believe it was Tina. A smile emerged on his face. Last time they spoke was 6 years back on their graduation day. 
+Tina lived in Mumbai with her daughter, Samira. Back in college, Tina and Rahul were inseparable—two souls dancing to the rhythm of young love. She was fearless, always embracing life with open arms, no matter how uncertain the path. Rahul, on the other hand, was hesitant, constantly caught in the tug-of-war between heart and mind. As fate would have it, their differences pulled them closer, and love blossomed between them.
 
-In an absolute joy, he said, "Hi."
+But life had other plans.
 
-"Hey," she replied.
+Just as Rahul was about to leave for work, his phone rang. His heart skipped a beat when he saw her name. Tina.
 
-He has been wanting for 6 years to speak to her. But when the moment came, he couldn't speak. A tear rolled down his eye.
+A smile tugged at the corners of his lips—one he hadn’t worn in years. The last time they spoke was on their graduation day, six years ago.
 
-He gathered the strength as he knew that this was his only chance.
+"Hi," he said softly, his voice trembling with anticipation.
 
-In a low voice, he said, "I am sorry." 
+"Hey," she replied, her tone calm yet distant.
 
-After a pause he resumed, "I feel sorry every day, every moment. Please forgive me."
+For six years, he had yearned for this moment. Yet, now that it was here, words failed him. His throat tightened, and a single tear escaped, tracing a lonely path down his cheek.
 
-A thought of forgiveness appeared in her heart, but the wound he had given her was too deep to heal. It was always in front of her.
+Summoning every ounce of courage, he finally spoke.
 
-In a strong voice she said, "Rahul, I have moved on. Samira wanted to speak to you. I had promised her that she will speak to her father on her fifth birthday. And you know, I never break my promise."
+"I’m sorry," he whispered.
 
-The hope of getting her back fainted in a jiffy. His heart wept like a child who catcall for something its parents can't afford.
+A long pause. His heart pounded in his ears as he added, "I’m sorry every day… every moment. Please… forgive me."
 
-Ruefully he replied, "I was helpless. Mom and dad were about to commit suicide. I had to choose between you and them. And I made a mistake."
+A flicker of warmth stirred in her heart, but the scars he left behind ran too deep. Forgiveness wasn’t easy when pain had been her constant companion.
 
-"A mistake for you, but it ruined my life." She replied.
+In a firm voice, she said, "Rahul, I’ve moved on. Samira wanted to speak to you. I promised her that she could talk to her father on her fifth birthday. And you know… I never break my promises."
 
-"I was 20 when I was pregnant. It wasn’t my baby alone, but only I suffered. I know you love me, but you love your parents more. That's your decision, and this is mine. Sorry, I can't forgive you."
+His world crumbled. The faint hope of rekindling their love vanished in an instant. His heart ached like a child crying for something that could never be his.
 
-Next, it was Samira on phone.
+"I was helpless, Tina," he murmured, his voice barely above a whisper. "Mom and Dad... they were about to… I had to choose between you and them. And I… I made a mistake."
 
-In a cute voice she said, "Papa, happy birthday."
+"A mistake for you," she replied, her voice steady but laced with pain, "but it ruined my life."
 
-Chocked, he couldn't reply.
+Her words cut through him like a blade. He wanted to speak, to plead, but she continued.
 
-Tina took the phone back. "Goodbye Rahul, we need to go."
+"I was 20 when I was pregnant. It wasn’t just my child, Rahul. But I was the only one who bore the burden. I know you loved me… but you loved your parents more. And that was your choice."
 
-Soaked in love, he didn’t want the call to end. Quickly, he asked, "how she looks?"
+A brief silence filled the air, heavy with the weight of everything left unsaid.
 
-"What you expect of someone who even shares your birth date. She's mini you." she replied and ended the call.
+"This… is mine," she added, her tone unwavering. "I’m sorry, Rahul. I can’t forgive you."
 
-He knew that she will never come back. 
+Before he could respond, a small, sweet voice echoed through the phone.
 
-Please, give me one more chance, he looked up and cried.
+"Papa… happy birthday," said Samira, her innocence piercing through his shattered heart.
+
+Choked with emotions, he couldn’t find the words. His lips trembled, but nothing came out.
+
+Tina took the phone back. "Goodbye, Rahul. We need to go."
+
+"Wait…," he blurted out, desperation spilling from his voice. "How… how does she look?"
+
+For a moment, there was silence. Then, with a softness he hadn’t heard in years, she replied, "What do you expect from someone who shares your birth date? She’s… mini you."
+
+And just like that, the call ended.
+
+Rahul stood there, the weight of unspoken words pressing down on him. He knew in his heart that she was never coming back.
+
+"Please… give me one more chance," he whispered, his eyes lifted to the heavens, tears streaming down.
 
 **Not everybody gets a second chance, and it's difficult when you don't get it. So make the most of the first always!**

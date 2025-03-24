@@ -1,5 +1,5 @@
 ---
-date: 2020-02-15T00:00:00.000Z
+date: 2024-12-15T00:00:00.000Z
 layout: post
 title: Social Credit System – The Futuristic Way Of Living
 subtitle: Social Credit System (SCS) to rate the trustworthiness of citizens -
@@ -18,16 +18,26 @@ tags:
   - Artificial Intelligence
 paginate: true
 ---
-We are living in a world where many of our daily activities are constantly monitored: what we buy at the shops and online; where we are at any given time; who our friends are and how we interact with them; what kind of videos we watch and how long; what bills and taxes we pay (or not); etc, thanks to all the data-collecting behemoths like Google, Facebook, Amazon, Instagram or health-tracking apps such as Fitbit, Apple Watch, etc.
+We live in a world where almost every aspect of our lives is under constant surveillance — what we buy in stores and online, where we go, who we interact with, what kind of content we consume (and for how long), and even which bills and taxes we pay (or don’t). This monitoring is carried out by data giants like Google, Facebook, Amazon, Instagram, and health-tracking devices such as Fitbit and Apple Watch.
 
-This monitoring happens for a purpose - to understand us and our [behavior as a customer](https://sarthakgarg.com/ai-and-the-future-of-lending/). At present, this behavior monitoring and analysis is restricted to individual companies, but imagine if all the data is being owned by a powerful and central authority like government who uses this data to control everything we do and decides our future. People with low credibility or poor behavior to have slower internet speeds, and restricted access to restaurants, nightclubs. Behavior of the person decides whether he will be hired by certain employers (or not), or is he eligible for obtaining jobs that require highest trust such as civil service, journalism and legal. **A [Social Credit System](https://en.wikipedia.org/wiki/Social_Credit_System) that allows the trustworthy to roam everywhere under heaven while making it hard for the discredited to take even a single step.**
+This data collection serves a purpose — to understand and predict our behavior as a customer. But what if, instead of individual companies using this data for targeted advertising, a powerful central authority, like the government, owned and controlled this data? Imagine a world where your behavior determines your internet speed, access to restaurants and clubs, and even your eligibility for high-trust professions like civil service, journalism, and law. **A Social Credit System that “allows the trustworthy to roam everywhere under heaven while making it hard for the discredited to take even a single step.”**
 
-**For good, the Social Credit System will bring “one way” to believe and act.** People will know what to expect now. No more of that political correctness. Trust will be back in society creating a culture of sincerity: sincerity in government, sincerity in business, judicial credibility as well as sincerity in social interactions now. The system not only investigate behavior - it will shape it. It will train citizens to stay away from purchases and behaviours the government doesn’t like. Once they get used to it, people will be a lot more secure and hence, happy. They’ll love it.
+## The Bright Side: A Unified Culture of Trust
 
-**For bad, too much privacy be eroded. Our every action will be guided, what we speak and do.** Life will become a real-life version of popular TV contest, Big Brother.  The bigger worry is - who’s going to decide which way the system goes. With such a system we may evolve technically, improve our societies economically, however the real questions about the future of trust is ethical. If we are not vigilant, distributed trust could become networked shaming process used for bullying people.
+On the positive side, a Social Credit System could enforce a single, predictable way for people to behave. No more ambiguity or political correctness. Trust could be restored in society, fostering sincerity across government, business, and social interactions. The system wouldn’t just monitor behavior — it would shape it. Over time, citizens would instinctively avoid actions or purchases disapproved of by the system. Once habituated, people might feel safer and, ironically, happier. They might even grow to love the system.
 
-If you are thinking it only happens in TV serials, no this is happening in real. It's already getting underway in China, where the government is developing a system to rate the trustworthiness of its 1.3 billion citizens. 
+## The Dark Side: The Death of Privacy and Freedom
 
-The Chinese government is pitching the system as a desirable way to measure and enhance "trust" nationwide and to build a culture of "sincerity". The new system reflects a cunning paradigm shift. As we've noted, instead of trying to enforce stability or conformity with a big stick and a good dose of top-down fear, the government is attempting to make obedience feel like gaming. It is a method of social control dressed up in some points-reward system where there will be only one rule or the overriding principle: "If trust is broken in one place, restrictions are imposed everywhere". It's [gamified obedience](https://en.wikipedia.org/wiki/Gamification).
+However, there’s a darker side to this utopian vision. Privacy would erode completely, leaving every action, word, and thought under scrutiny. Life would morph into a real-world version of Big Brother, where conformity isn’t a choice but a requirement. The greater danger? Who decides what’s “right”? While technological evolution and economic efficiency may thrive, the ethical implications of such a system are deeply unsettling. Without vigilance, a distributed trust system could devolve into a tool for public shaming and systemic bullying.
 
-**The big question is what do you think of this? Are you in for gamified obedience? Are you in for a Social Credit System?**
+**This Isn’t Fiction — It’s Already Happening**
+
+If you think this sounds like a dystopian TV show, think again. It’s already taking shape in China, where the government is developing a system to evaluate the trustworthiness of its 1.3 billion citizens. The Chinese government presents it as a way to promote trust and sincerity across the nation, but the reality is more insidious.
+
+## Gamified Obedience: Control Disguised as Rewards
+
+This system marks a strategic paradigm shift. Instead of enforcing conformity through fear and punishment, the government has gamified obedience. Compliance becomes addictive, framed as a points-based rewards system where the golden rule is simple: “If trust is broken in one place, restrictions are imposed everywhere.” It's a system of gamified obedience designed to make citizens willingly submit to control, believing they’re “winning” by complying.
+
+## The Big Question: Are You Ready for This Future?
+
+What do you think? Are you ready for a world where trust is measured, monitored, and rewarded? Are you in for gamified obedience? Or is this a path toward a society where freedom becomes a distant memory?

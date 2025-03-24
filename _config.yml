@@ -11,8 +11,6 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Profile
-    url: /about_me.html
   - title: Categories
     url: /category
   - title: Contact
@@ -23,9 +21,7 @@ menu:
 # Remove the item if you don't need it
 github_username: gargsaar
 twitter_username: gargsaar
-instagram_username: gargsaar
 linkedin_username: sarthak-garg-0997a418
-medium_username: gargsaar
 
 
 # Posts Settings
@@ -96,4 +92,5 @@ exclude: [
 ]
 
 # Theme
+theme: jekflix
 version: v3.0.2

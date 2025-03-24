@@ -1,5 +1,5 @@
 ---
-date: 2020-05-07T11:58:02.000Z
+date: 2024-12-07T11:58:02.000Z
 layout: post
 title: "Dear, Github, Jekyll, and Netlify: Thank You! "
 subtitle: How I host my website for free and it's quite easy.

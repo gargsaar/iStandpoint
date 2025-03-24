@@ -63,4 +63,5 @@ exclude: [
 ]
 
 # Theme
+theme: jekflix
 version: v3.0.2

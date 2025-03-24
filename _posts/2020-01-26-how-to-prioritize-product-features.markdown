@@ -1,5 +1,5 @@
 ---
-date: 2019-05-26T00:00:00.000Z
+date: 2024-05-26T00:00:00.000Z
 layout: post
 title: How to prioritize product features
 subtitle: How to prioritize features for agile product development
