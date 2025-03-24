@@ -508,7 +508,7 @@ footer .social-links a:hover {
 }
 .project-showcase .project-content .project-tags::before {
     color: #a88cd5;
-    content: "•";
+    content: "Â•";
     font-size: 1.8rem;
     margin-right: 4px;
 }
