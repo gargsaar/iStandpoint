@@ -1,7 +1,7 @@
 ---
-layout: category
+layout: categories
 title: Product
-slug: "{{slug}}"
+slug: Product
 description: A category for product management related posts.
 ---
 
